@@ -14,8 +14,7 @@ This is a Spring Boot-powered Stock Trading application that supports order matc
 - **Java 17**
 - **Spring Boot** (Web, Scheduling, DevTools)
 - **Maven**
-- **Lombok** for reducing boilerplate code
-- **SLF4J** for logging
+
 
 ## Prerequisites
 Ensure you have the following installed:
